@@ -7,7 +7,7 @@ For this challenge you’ll be planning and implementing a formatting strategy f
              b.	Explore each of the pages (index.html, links.html, next.html, reference.htm, structure.html and syntax.html) and carefully read through the text.
              c.	Determine which content should be represented as headings, and then which level of headings you should use for each page. Focus on being consistent in how you assign headings for each page.
              d.	Go through each of the pages, and format headings based on your strategy.
-- recheck later!! - did all -- double check when done with all via reading the pages
+- recheck later!! - did all -- double check when done with all via reading the pages - might need to <h4> the next one?
 
 2.	Format paragraphs
              a.	Applies to: index.html
@@ -17,14 +17,15 @@ For this challenge you’ll be planning and implementing a formatting strategy f
 3.	Controlling line breaks
              a.	Applies to: next.html
              b.	In the section under “learning web design” there are four recommendations. Each recommendation has an initial sentence followed by descriptive text. Using a line break, format these paragraphs so their initial sentence appears on its own line.
-- HERE!!
+- recheck later!!
 
 4.	Determining emphasis
 	     a.	Applies to: next.html
 	     b.	In the file next.html examine the four pieces of advice in the Learning Web Design section. Determine how to best emphasize the first line in each paragraph. Think about ways that you could isolate that line or emphasize it in a way that denotes its importance to the rest of the paragraph.
              c.	In the last advice paragraph (“break things”), display the quotes in italics. In the same paragraph, emphasize the last line “Always challenge yourself” so that it’s importance is indicated.
 	     d.	In the list of resources below the advice section, make sure all top-level list items appear in bold.
-			
+- HERE!!			
+
 5.	Displaying special characters
 	     a.	Applies to: reference.html
 	     b.	Scroll down and find the table that displays common named character entities.
