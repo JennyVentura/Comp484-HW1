@@ -31,7 +31,7 @@ For this challenge you’ll be planning and implementing a formatting strategy f
 	     b.	Scroll down and find the table that displays common named character entities.
 	     c.	Preview the page in a browser, and using the table as a reference, add the appropriate entity into the first table cell to provide an example of that character.
 	     d.	In the definition for Elements, wrap the word "tags" in quotes using a left and right quote special character.
-- HERE!!
+- recheck later!!
 
 6.	Inserting Images
 	     a.	Applies to: index.htmll
@@ -40,7 +40,8 @@ For this challenge you’ll be planning and implementing a formatting strategy f
                   i.	points to the 200px-W3C_icon.png in the images directory
                   ii.	uses the alt text “W3C logo”
 		  iii.	passes the value of 200 for width, and 136 for height
-		  iv.	applies a class of “flowLeft”			
+		  iv.	applies a class of “flowLeft”	
+- HERE!!		  		
 					
 
 
