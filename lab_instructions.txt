@@ -12,7 +12,7 @@ For this challenge you’ll be planning and implementing a formatting strategy f
 2.	Format paragraphs
              a.	Applies to: index.html
              b.	Determine which content should be represented by paragraphs and then format them appropriately. 
-- recheck later!!
+- Finished
 
 3.	Controlling line breaks
              a.	Applies to: next.html
