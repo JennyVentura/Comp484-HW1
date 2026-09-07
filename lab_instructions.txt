@@ -12,10 +12,12 @@ For this challenge you’ll be planning and implementing a formatting strategy f
 2.	Format paragraphs
              a.	Applies to: index.html
              b.	Determine which content should be represented by paragraphs and then format them appropriately. 
+- recheck later!!
 
 3.	Controlling line breaks
              a.	Applies to: next.html
              b.	In the section under “learning web design” there are four recommendations. Each recommendation has an initial sentence followed by descriptive text. Using a line break, format these paragraphs so their initial sentence appears on its own line.
+- HERE!!
 
 4.	Determining emphasis
 	     a.	Applies to: next.html
