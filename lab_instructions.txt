@@ -31,7 +31,7 @@ For this challenge you’ll be planning and implementing a formatting strategy f
 	     b.	Scroll down and find the table that displays common named character entities.
 	     c.	Preview the page in a browser, and using the table as a reference, add the appropriate entity into the first table cell to provide an example of that character.
 	     d.	In the definition for Elements, wrap the word "tags" in quotes using a left and right quote special character.
-- recheck later!!
+- Finished
 
 6.	Inserting Images
 	     a.	Applies to: index.html
